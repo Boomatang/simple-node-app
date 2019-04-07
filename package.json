@@ -1,0 +1,23 @@
+{
+  "name": "simple-node-app",
+  "version": "1.0.0",
+  "description": "Simple node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Boomatang/simple-node-app.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Boomatang/simple-node-app/issues"
+  },
+  "homepage": "https://github.com/Boomatang/simple-node-app#readme",
+  "dependencies": {
+    "hapi": "^18.1.0",
+    "node": "^11.13.0"
+  }
+}
